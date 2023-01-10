@@ -1,0 +1,76 @@
+H2 {
+    font-family: monospace;
+    font-weight: bolder;
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+}
+
+.listDiv {
+    align-items: center;
+    object-position: 10px;
+    border-radius: 15px;
+    border: 5px solid #3E6D73;
+    margin: 5;
+    padding: 30px;
+    width: 400px;
+    height: 200px;
+}
+div {
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+text {
+    color:#6B4A47;
+}
+
+button {
+    border-color: #6B4A47;
+    color: #6B4A47;
+    padding-left: 10px;
+    margin: 20px;
+}
+
+.clearButton {
+    margin-left: 10px;  
+}
+
+.linkButton {
+    color: #6B4A47;
+    padding: 5px;
+    margin: 20px
+}
+
+.input {
+    margin: 10px;
+    padding: 5px;
+}
+
+input {
+    border: 2px solid #6B4A47 ;
+    border-radius: 4px;
+
+}
+
+select {
+    border: 2px solid #6B4A47 ;
+    border-radius: 4px;
+}
+
+.statusText {
+    font-size: 30px;
+    font-family: monospace;
+    font-style: italic;
+    color: #235381;
+    
+}
+
+.errorMessage {
+    font-size: 30px;
+    font-family: monospace;
+    font-style: italic;
+    color: #AE434C;
+    
+}
+
